@@ -1,0 +1,4 @@
+name: ConsoleFilter
+main: rip.hippo.consolefilter.ConsoleFilter
+version: 1.0.0
+author: Hippo
